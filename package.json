@@ -1,0 +1,24 @@
+{
+  "name": "express-api-formatter",
+  "version": "0.1.0",
+  "description": "Adds formatting functions to response",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:schibsted/express-api-formatter.git"
+  },
+  "keywords": [
+    "express",
+    "json",
+    "api"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-schibsted": "^3.1.0"
+  }
+}
